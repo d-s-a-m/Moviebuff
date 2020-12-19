@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://d-s-a-m.github.io/Moviebuff/static/css/main.c14106c4.chunk.css",
-    "main.js": "https://d-s-a-m.github.io/Moviebuff/static/js/main.20a57d59.chunk.js",
-    "main.js.map": "https://d-s-a-m.github.io/Moviebuff/static/js/main.20a57d59.chunk.js.map",
-    "runtime-main.js": "https://d-s-a-m.github.io/Moviebuff/static/js/runtime-main.bc1d35a9.js",
-    "runtime-main.js.map": "https://d-s-a-m.github.io/Moviebuff/static/js/runtime-main.bc1d35a9.js.map",
-    "static/js/2.d359dcb2.chunk.js": "https://d-s-a-m.github.io/Moviebuff/static/js/2.d359dcb2.chunk.js",
-    "static/js/2.d359dcb2.chunk.js.map": "https://d-s-a-m.github.io/Moviebuff/static/js/2.d359dcb2.chunk.js.map",
-    "static/js/3.c8c6732a.chunk.js": "https://d-s-a-m.github.io/Moviebuff/static/js/3.c8c6732a.chunk.js",
-    "static/js/3.c8c6732a.chunk.js.map": "https://d-s-a-m.github.io/Moviebuff/static/js/3.c8c6732a.chunk.js.map",
-    "index.html": "https://d-s-a-m.github.io/Moviebuff/index.html",
-    "static/css/main.c14106c4.chunk.css.map": "https://d-s-a-m.github.io/Moviebuff/static/css/main.c14106c4.chunk.css.map",
-    "static/js/2.d359dcb2.chunk.js.LICENSE.txt": "https://d-s-a-m.github.io/Moviebuff/static/js/2.d359dcb2.chunk.js.LICENSE.txt",
-    "static/media/spinner.78672653.gif": "https://d-s-a-m.github.io/Moviebuff/static/media/spinner.78672653.gif"
+    "main.css": "/Moviebuff/static/css/main.c14106c4.chunk.css",
+    "main.js": "/Moviebuff/static/js/main.20a57d59.chunk.js",
+    "main.js.map": "/Moviebuff/static/js/main.20a57d59.chunk.js.map",
+    "runtime-main.js": "/Moviebuff/static/js/runtime-main.afa7830b.js",
+    "runtime-main.js.map": "/Moviebuff/static/js/runtime-main.afa7830b.js.map",
+    "static/js/2.d359dcb2.chunk.js": "/Moviebuff/static/js/2.d359dcb2.chunk.js",
+    "static/js/2.d359dcb2.chunk.js.map": "/Moviebuff/static/js/2.d359dcb2.chunk.js.map",
+    "static/js/3.c8c6732a.chunk.js": "/Moviebuff/static/js/3.c8c6732a.chunk.js",
+    "static/js/3.c8c6732a.chunk.js.map": "/Moviebuff/static/js/3.c8c6732a.chunk.js.map",
+    "index.html": "/Moviebuff/index.html",
+    "static/css/main.c14106c4.chunk.css.map": "/Moviebuff/static/css/main.c14106c4.chunk.css.map",
+    "static/js/2.d359dcb2.chunk.js.LICENSE.txt": "/Moviebuff/static/js/2.d359dcb2.chunk.js.LICENSE.txt",
+    "static/media/spinner.78672653.gif": "/Moviebuff/static/media/spinner.78672653.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc1d35a9.js",
+    "static/js/runtime-main.afa7830b.js",
     "static/js/2.d359dcb2.chunk.js",
     "static/css/main.c14106c4.chunk.css",
     "static/js/main.20a57d59.chunk.js"
